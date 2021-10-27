@@ -1,6 +1,6 @@
 # RAJENGINEERS
 
-Come Build with Us! Go check-out our website here -> https://rajengineersudr.shortcm.li/RAJ_ENGINEERS 
+Come Build with Us! Go check-out our website here -> https://bit.ly/RajEngineers
 
 ![Alt Text](https://github.com/snehiljain34/RAJENGINEERS/blob/master/rajengineers.gif)
 
